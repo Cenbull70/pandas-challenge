@@ -4,14 +4,14 @@
 
 <p>This analysis is broken down into several steps:</p>
 
-#District Summary
-#School Summary
-#Highest-Performing Schools by Percentage of Overall Passing
-#Lowest-Performing Schools by Percentage of Overall Passin
-#Math Scores by Grade
-#Reading Scores by Grade 
-#Scores by School Spending 
-#Scores by School Size
-#Scores by School Type
+#<p>District Summary<p>
+#<p>School Summary<p>
+#<p>Highest-Performing Schools by Percentage of Overall Passing<p>
+#<p>Lowest-Performing Schools by Percentage of Overall Passin<p>
+#<p>Math Scores by Grade<p>
+#<p>Reading Scores by Grade<p>
+#<p>Scores by School Spending<p>
+#<p>Scores by School Size<p>
+#<p>Scores by School Type<p>
 
 
